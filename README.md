@@ -2,7 +2,7 @@
 Home Blog About CV
 
 # About Me
-I obtained my bachelor’s degree in computer science from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and worked as a software developer at the Internal Tools Team of [TP-Link](https://www.tp-link.com/us/). Currently, I am an incoming graduate student at the [University of Washington](https://www.hcde.washington.edu/).
+I obtained my bachelor’s degree in computer science from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and worked as a software developer at the Internal Tools Team of [TP-Link](https://www.tp-link.com/us/) for 3 years. Currently, I am an incoming graduate student at the [University of Washington](https://www.hcde.washington.edu/).
 
 I can be referred to as Shay or Xueyi 雪昳.
 
