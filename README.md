@@ -8,7 +8,7 @@ I obtained my Bachelor's degree in Computer Science from [Sun Yat-sen University
 
 My expertise lies in front-end development, UX design, and full-stack development. With 2+ years of full-time experience in front-end development, I specialize in building enterprise-level web systems and desktop applications using React. 
 
-I place high value on both development and user experiences. What I'm passionate about is optimizing user flows and designing elegant interactions amid complex and even volving requirements. I also enjoy keeping development neat by building well-structured software based on design patterns.
+I place high value on both user and development experiences. What I'm passionate about is optimizing user flows and designing elegant interactions amid complex and even evolving requirements. I also enjoy keeping development neat by building well-structured software based on design patterns.
 
 
 *Last updated on Jun 19, 2024*
