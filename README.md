@@ -1,8 +1,6 @@
-Home Blog About CV
+I can be referred to as Shay or Xueyi 雪昳.
 
 # About Me
-
-I can be referred to as Shay or Xueyi 雪昳.
 
 I obtained my Bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). After graduation, I spent three years working as a software engineer in the Internal Tools Team at [TP-Link](https://www.tp-link.com/us/). Starting in September 2024, I will be pursuing my Master's degree in [Human Centered Design and Engineering (HCDE)](https://www.hcde.washington.edu/) at the University of Washington.
 
