@@ -2,7 +2,7 @@ I can be referred to as Shay or Xueyi 雪昳.
 
 # About Me
 
-I obtained my Bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). After graduation, I spent three years working as a software engineer in the Internal Tools Team at [TP-Link](https://www.tp-link.com/us/). Starting in September 2024, I will be pursuing my Master's degree in [Human Centered Design and Engineering (HCDE)](https://www.hcde.washington.edu/) at the University of Washington.
+I obtained my Bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) and spent three years working as a software engineer in the Internal Tools Team at [TP-Link](https://www.tp-link.com/us/). Starting in September 2024, I will be pursuing my Master's degree in [Human Centered Design and Engineering (HCDE)](https://www.hcde.washington.edu/) at the University of Washington.
 
 My expertise lies in front-end development, UX design, and full-stack development. With 2+ years of full-time experience in front-end development, I specialize in building enterprise-level web systems and desktop applications using React. 
 
