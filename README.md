@@ -13,5 +13,4 @@ My [portfolio](https://drive.google.com/file/d/1bYJ8bwCvYMgZ8Wl8-L3rl-rjTcQwhjey
 
 ---
 
-*Last updated on Jun 19, 2024*
-<footer position="absolute" bottom="0">© 2024 Shay Duan All rights reserved.</footer>
+<footer style="width: 100%;/* text-align: center; */bottom: 10px;position: fixed;font-size: small;">Last updated on Jun 19, 2024 © 2024 Shay Duan All rights reserved.</footer>
