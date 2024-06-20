@@ -8,7 +8,10 @@ My expertise lies in front-end development, UX design, and full-stack developmen
 
 I place high value on both user and development experiences. What I'm passionate about is optimizing user flows and designing elegant interactions amid complex and even evolving requirements. I also enjoy keeping development neat by building well-structured software based on design patterns.
 
+# Works
+My portfolio on [Google Drive](https://drive.google.com/file/d/1bYJ8bwCvYMgZ8Wl8-L3rl-rjTcQwhjey/view) contains two of my proudest works at TP-Link.
+
+---
 
 *Last updated on Jun 19, 2024*
-
-© 2024 Shay Duan All rights reserved.
+<footer position="absolute" bottom="0">© 2024 Shay Duan All rights reserved.</footer>
